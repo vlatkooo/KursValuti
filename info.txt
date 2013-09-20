@@ -1,0 +1,1 @@
+aplikacijata raboti so kurs na valuti. Podatocite se prezemaat od servisot na Narodna banka na RM (preku async task), se prikazuvaat vo lista i se snimaat vo baza na podatoci
